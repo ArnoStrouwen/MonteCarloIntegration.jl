@@ -54,7 +54,8 @@ Output:
 - Estimate for the integral 
 - Standard deviation
 - χ^2 / (numiter - 1): should be less than 1 
-otherwise integral estimate should not be trusted. 
+otherwise integral estimate should not be trusted.
+- Final adapted map
 
 References:
 -----------
